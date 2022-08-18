@@ -1,0 +1,36 @@
+html {
+	scroll-behavior: smooth;
+}
+.location_and_time {
+  background-color: #d6efc7
+}
+.header_picture
+{
+  height: 100%;
+  width: 100%;
+}
+.picture_top {
+  height: 25px;
+  width: 25px;
+	/* margin-right: 220px; */
+}
+
+.centering_text {
+  padding-top: 25px;
+  padding-left: 25px;
+}
+.centering_text2 {
+  padding-top: 75px;
+}
+.divImages {
+  height: 250px;
+  width: 450px;
+  padding-left: 25px;
+}
+.row {
+  margin: 0;
+}
+footer {
+  height: 50px;
+  background-color: #374045;
+}
